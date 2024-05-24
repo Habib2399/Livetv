@@ -291,7 +291,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/270518.ts
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", AB MASTII
 https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2023/07/YRF.webp" group-title="MUSIC", YRF MUSIC
+#EXTINF: -1 tvg-logo="https://rb.gy/uqguoe" group-title="MUSIC", YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
@@ -299,7 +299,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold
 http://humsab.xyz/IN_StarGold2/mpegts?token=9bd7ba9ff9e3e96a1a124d0a5f43e7f0
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold 2
 http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
@@ -321,10 +321,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/817112.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=1087600.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture
+#EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236927.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture HD
-http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1964.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg" group-title="INDIAN", & Flix HD
 http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/817111.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab
