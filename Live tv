@@ -70,7 +70,7 @@ http://cdn01.palki.tv/live/NTV-M/index.m3u8
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239043.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg" group-title="BANGLADESHI", Ntv Europe
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png" group-title="BANGLADESHI", Ekushey Tv
+#EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", My Tv
 https://myflixbd.com/0.m3u8
