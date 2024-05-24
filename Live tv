@@ -60,9 +60,6 @@ http://195.26.87.217/live.ts?channelId=83&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wBXp2pkd/GKBkm2e.png" group-title="BANGLADESHI", DESH TV
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wBXp2pkd/GKBkm2e.png" group-title="BANGLADESHI", EKUSHY TELEVISION
-https://is.gd/84LL1m.m3u8 
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
 https://is.gd/KgcjFh.m3u8 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
