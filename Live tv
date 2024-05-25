@@ -32,6 +32,101 @@ https://edge.taghtia.com/sa/7.m3u8
 http://xtv.ooo:8080/T4S00515/820172/2
 #EXTINF: -1 tvg-id="aryqtv.pk" tvg-name="ARY QTV" group-title=" ISLAMIC", ARY QTV
 http://xtv.ooo:8080/T4S00515/820172/3
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,✦●✦ |ISLAM| ISLAMIC ✦●✦
+http://extraott.com:900/3338826713/8323116234/113238
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/QURAN.png" tvg-id="saudiquran.sa" ,ISLAM| SAUDI QURAN HD
+http://extraott.com:900/3338826713/8323116234/15280
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/QURAN.png" tvg-id="saudiquran.sa" ,ISLAM| SAUDI QURAN HEVC
+http://extraott.com:900/3338826713/8323116234/6328
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/saudisuna.png" tvg-id="sunnah.sa" ,ISLAM| SAUDI SUNNAH HD
+http://extraott.com:900/3338826713/8323116234/15278
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/saudisuna.png" tvg-id="sunnah.sa" ,ISLAM| SAUDI SUNNAH HEVC
+http://extraott.com:900/3338826713/8323116234/14005
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/mecatv.png" ,ISLAM| MECCA TV
+http://extraott.com:900/3338826713/8323116234/15274
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/mjd.png" tvg-id="almajd.sa" ,ISLAM| AL MAJD 1
+http://extraott.com:900/3338826713/8323116234/15270
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/majd.png" ,ISLAM| AL MAJD HOLY QURAN
+http://extraott.com:900/3338826713/8323116234/24990
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/mjd.png" tvg-id="almajd.sa" ,ISLAM| AL MAJD 2 SD
+http://extraott.com:900/3338826713/8323116234/15269
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/bahrainqr.png" ,ISLAM| BAHRAIN QURAN
+http://extraott.com:900/3338826713/8323116234/261034
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/iqrra.png" tvg-id="iqra.sa" ,ISLAM| IQRAA
+http://extraott.com:900/3338826713/8323116234/15277
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/iqrra.png" tvg-id="iqra.sa" ,ISLAM| IQRAA HEVC
+http://extraott.com:900/3338826713/8323116234/14006
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/resala.png" tvg-id="alresalah.sa" ,ISLAM| AL RISALA HD
+http://extraott.com:900/3338826713/8323116234/15276
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/resala.png" tvg-id="alresala.sa" ,ISLAM| AL RISALA HEVC
+http://extraott.com:900/3338826713/8323116234/6351
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/sirat.png" ,ISLAM| AL SIRAT
+http://extraott.com:900/3338826713/8323116234/15259
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/qrkarem.png" ,ISLAM| MISR QURAN KAREEM SD
+http://extraott.com:900/3338826713/8323116234/360857
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/rahma.png" ,ISLAM| AL RAHMA TV
+http://extraott.com:900/3338826713/8323116234/15275
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/zadtv.png" ,ISLAM| ZAD TV
+http://extraott.com:900/3338826713/8323116234/355429
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/alhlalqrn.png" ,ISLAM| AHLU ALQURAN
+http://extraott.com:900/3338826713/8323116234/355428
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/istikama.png" ,ISLAM| AL ISTIQAMA TV HD
+http://extraott.com:900/3338826713/8323116234/189923
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/haqiqa.png" ,ISLAM| AL HAQIQA
+http://extraott.com:900/3338826713/8323116234/15261
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/irtnabawi.png" ,ISLAM| ALERTH ALNABAWI
+http://extraott.com:900/3338826713/8323116234/189925
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/anis.png" ,ISLAM| AL ANIS TV HD
+http://extraott.com:900/3338826713/8323116234/19400
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/safa.png" ,ISLAM| SAFA
+http://extraott.com:900/3338826713/8323116234/15265
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/salam.png" ,ISLAM| AL SALAM SD
+http://extraott.com:900/3338826713/8323116234/6887
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/binothman.png" ,ISLAM| BIN OTHAIMEEN SD
+http://extraott.com:900/3338826713/8323116234/6888
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/daawah.png" ,ISLAM| DAWAAH TV
+http://extraott.com:900/3338826713/8323116234/355430
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/iqrra.png" ,ISLAM| DUAA TV HD
+http://extraott.com:900/3338826713/8323116234/355432
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/fath.png" ,ISLAM| AL FATH TV
+http://extraott.com:900/3338826713/8323116234/355433
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/zahra.png" ,ISLAM| AL ZAHRA TV
+http://extraott.com:900/3338826713/8323116234/355434
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/minhajnoba.png" ,ISLAM| MENHAG ALNABAWI
+http://extraott.com:900/3338826713/8323116234/360850
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/mta.png" ,ISLAM| MTA ARABIC
+http://extraott.com:900/3338826713/8323116234/360851
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/FCB/mdeeh.png" ,ISLAM| MDEEH
+http://extraott.com:900/3338826713/8323116234/360854
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| MAWADA
+http://extraott.com:900/3338826713/8323116234/29481
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| KAIFA TV
+http://extraott.com:900/3338826713/8323116234/29491
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| HUDA TV
+http://extraott.com:900/3338826713/8323116234/29492
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| IBN UTHAYMEEN TV
+http://extraott.com:900/3338826713/8323116234/29496
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| ESSALAM TV
+http://extraott.com:900/3338826713/8323116234/29501
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| AMO YAZID TV
+http://extraott.com:900/3338826713/8323116234/29514
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| ALMAHABBA TV
+http://extraott.com:900/3338826713/8323116234/29518
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| AL MUSTAPHA
+http://extraott.com:900/3338826713/8323116234/29528
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| AL MADEEH TV
+http://extraott.com:900/3338826713/8323116234/29530
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| Al MAALY TV
+http://extraott.com:900/3338826713/8323116234/29531
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| MAKKAH TV
+http://extraott.com:900/3338826713/8323116234/39732
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| MTA WORLD
+http://extraott.com:900/3338826713/8323116234/39733
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| AL FATEH QURAN
+http://extraott.com:900/3338826713/8323116234/39734
+#EXTINF:-1 group-title="AR | ISLAMIC" tvg-logo="https://lo1.in/islaa/isflage.png" ,ISLAM| QURAN TV
+http://extraott.com:900/3338826713/8323116234/39735
+
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
