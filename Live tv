@@ -1,37 +1,84 @@
-#EXTM3U 
-
-#EXTINF: -1 tvg-name="02 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title=" ISLAMIC", 02 QURAN MAJEED TALAWAT 24/7
-http://line.rs4ott.com:80/play/live.php?mac=00:1A:79:2c:c8:b3&stream=697043&extension=ts
-#EXTINF: -1 tvg-name="03 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title=" ISLAMIC", 03 QURAN MAJEED TALAWAT 24/7
-http://xtv.ooo:8080/live/223322/223322/251594.m3u8
-#EXTINF: -1 tvg-name="02 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title=" ISLAMIC", 02 QURAN MAJEED TALAWAT 24/7
-http://line.rs4ott.com:80/play/live.php?mac=00:1A:79:2c:c8:b3&stream=697043&extension=ts
-http://line.rs4ott.com:80/play/live.php?mac=00:1A:79:2c:c8:b3&stream=697047&extension=ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQ2GrPv9/images.jpg" group-title="ISLAMIC", Peace Tv
-http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
-#EXTINF: -1 tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/chunks.m3u8
-/deentv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://e7.pngegg.com/pngimages/624/765/png-clipart-quran-android-recitation-quran-islam-logos.png" group-title="ISLAMIC", Quran Telowat live
-https://ythls-v2.onrender.com/channel/UC5IAygCdjqWuk5aSwT_8cLw.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9gffd60.png" group-title="ISLAMIC", Makkah Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg" group-title="ISLAMIC", IQRA Bangla
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/BZKkn3KY/images-1.jpg" group-title="ISLAMIC", Deen Tv Uk
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://e7.pngegg.com/pngimages/624/765/png-clipart-quran-android-recitation-quran-islam-logos.png" group-title="ISLAMIC", Quran Telowat
-https://ythls-v2.onrender.com/channel/UCeoXPyf7C5FVlMYAn6y1wOQ.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GQhXlx8.jpg" group-title="ISLAMIC", Madina Tv
-http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/M0K68o5.png" group-title="ISLAMIC", Islam Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/islamtv.stream/live-orgin/islamtv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="ISLAMIC", Makka Live
-https://edge.taghtia.com/sa/7.m3u8
-#EXTINF: -1 tvg-name="MADNI TV" group-title=" ISLAMIC", MADNI TV
-http://xtv.ooo:8080/T4S00515/820172/2
-#EXTINF: -1 tvg-id="aryqtv.pk" tvg-name="ARY QTV" group-title=" ISLAMIC", ARY QTV
-http://xtv.ooo:8080/T4S00515/820172/3
+#EXTM3U
+#EXTINF:-1 group-title=" ISLAMIC" ,MADNI TV
+http://xtv.ooo:8080/7082785282/90643795158/2
+#EXTINF:-1 group-title=" ISLAMIC" tvg-id="aryqtv.pk" ,ARY QTV
+http://xtv.ooo:8080/7082785282/90643795158/3
+#EXTINF:-1 group-title=" ISLAMIC" ,AL-QURAN AL-KAREEM
+http://xtv.ooo:8080/7082785282/90643795158/4
+#EXTINF:-1 group-title=" ISLAMIC" ,IMAM HUSSAIN TV 4 URDU
+http://xtv.ooo:8080/7082785282/90643795158/5
+#EXTINF:-1 group-title=" ISLAMIC" ,IMAM HUSSAIN 3 TV
+http://xtv.ooo:8080/7082785282/90643795158/6
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadi_tv_pk.png" ,HADI TV
+http://xtv.ooo:8080/7082785282/90643795158/7
+#EXTINF:-1 group-title=" ISLAMIC" ,PAIGHAM URDU
+http://xtv.ooo:8080/7082785282/90643795158/8
+#EXTINF:-1 group-title=" ISLAMIC" ,ALBAYAT TV
+http://xtv.ooo:8080/7082785282/90643795158/9
+#EXTINF:-1 group-title=" ISLAMIC" ,MAKKA TV LIVE*
+http://xtv.ooo:8080/7082785282/90643795158/10
+#EXTINF:-1 group-title=" ISLAMIC" ,PEACE TV URDU
+http://xtv.ooo:8080/7082785282/90643795158/11
+#EXTINF:-1 group-title=" ISLAMIC" ,****
+http://xtv.ooo:8080/7082785282/90643795158/13
+#EXTINF:-1 group-title=" ISLAMIC" ,MADINA LIVE*
+http://xtv.ooo:8080/7082785282/90643795158/26
+#EXTINF:-1 group-title=" ISLAMIC" ,AL-SUNNAH
+http://xtv.ooo:8080/7082785282/90643795158/57
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: NOOR TV
+http://xtv.ooo:8080/7082785282/90643795158/92
+#EXTINF:-1 group-title=" ISLAMIC" ,Hidayat TV
+http://xtv.ooo:8080/7082785282/90643795158/26017
+#EXTINF:-1 group-title=" ISLAMIC" ,Islam Channel Urdu"
+http://xtv.ooo:8080/7082785282/90643795158/26021
+#EXTINF:-1 group-title=" ISLAMIC" ,Al Zahra Tv
+http://xtv.ooo:8080/7082785282/90643795158/26035
+#EXTINF:-1 group-title=" ISLAMIC" ,***
+http://xtv.ooo:8080/7082785282/90643795158/54961
+#EXTINF:-1 group-title=" ISLAMIC" ,PK | Paigam Pushto
+http://xtv.ooo:8080/7082785282/90643795158/103644
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://starsat123.com:8080/images/e70611883d2760c8bbafb4acb29e3446.png" ,Al Majd Quran
+http://xtv.ooo:8080/7082785282/90643795158/103657
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: Raham Tv
+http://xtv.ooo:8080/7082785282/90643795158/103658
+#EXTINF:-1 group-title=" ISLAMIC" ,IQRA Bangla TV
+http://xtv.ooo:8080/7082785282/90643795158/103661
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: BARKAT TV
+http://xtv.ooo:8080/7082785282/90643795158/110046
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: Minhaj TV HD*
+http://xtv.ooo:8080/7082785282/90643795158/110047
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: FAZAL TV*
+http://xtv.ooo:8080/7082785282/90643795158/110052
+#EXTINF:-1 group-title=" ISLAMIC" ,Pak: PEACE TV (ENGLISH)
+http://xtv.ooo:8080/7082785282/90643795158/167878
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" ,01 QURAN MAJEED TALAWAT 24/7
+http://xtv.ooo:8080/7082785282/90643795158/251592
+#EXTINF:-1 group-title=" ISLAMIC" ,02 QURAN MAJEED TALAWAT 24/7
+http://xtv.ooo:8080/7082785282/90643795158/251593
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" ,03 QURAN MAJEED TALAWAT 24/7
+http://xtv.ooo:8080/7082785282/90643795158/251594
+#EXTINF:-1 group-title=" ISLAMIC" ,IR: Sahar Urdu
+http://xtv.ooo:8080/7082785282/90643795158/270529
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,01 NAATS SHARIF 24/7
+http://xtv.ooo:8080/7082785282/90643795158/310906
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,02 NAATS SHARIF 24/7
+http://xtv.ooo:8080/7082785282/90643795158/310907
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,03 NAATS FARHAN ALI QADRI 24/7
+http://xtv.ooo:8080/7082785282/90643795158/311020
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,04 NAATS SHARIF 24/7
+http://xtv.ooo:8080/7082785282/90643795158/311356
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,05 NAATS SHARIF 24/7
+http://xtv.ooo:8080/7082785282/90643795158/323763
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,06 NAATS SHARIF 24/7
+http://xtv.ooo:8080/7082785282/90643795158/323764
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,07 NAATS SHARIF 24/7
+http://xtv.ooo:8080/7082785282/90643795158/323765
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,08 NAATS SHARIF 24/7
+http://xtv.ooo:8080/7082785282/90643795158/328788
+#EXTINF:-1 group-title=" ISLAMIC" ,09 NAATS SHARIF 24/7
+http://xtv.ooo:8080/7082785282/90643795158/328789
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Dark_vignette_Al-Masjid_AL-Nabawi_Door800x600x300_%28cropped%29.jpg" ,Hadees Rasool Pak (SAW)
+http://xtv.ooo:8080/7082785282/90643795158/328790
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
