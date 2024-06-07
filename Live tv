@@ -75,10 +75,9 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1200px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="BANGLADESHI", Nagorik tv
-http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239045.ts
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/49970.ts
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
@@ -119,19 +118,12 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AnUlFWN.jpg" group-title="BANGLADESHI", Times 24
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
-
-
-
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JdC9P90.jpg" group-title="BANGLADESHI", Bangla Tv
 https://8v1cc03lpt.gpcdn.net/lyrnxmpshm/Bangla_TV_Euro-1080p.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLADESHI", Anando Tv
 https://is.gd/DI049h.m3u8 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png" group-title="BANGLADESHI", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png" group-title="BANGLADESHI", CHANNEL S
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Mzolgwz.jpg" group-title="BANGLADESHI", CHANNEL S
